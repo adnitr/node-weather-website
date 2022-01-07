@@ -1,5 +1,3 @@
-console.log("Hello Adarsh")
-
 const searchForm = document.querySelector('form')
 const searchInput = document.querySelector('input')
 
